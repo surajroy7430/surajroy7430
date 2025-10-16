@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="coding gif" width="80%" height="300" />
+  <img src="https://miro.medium.com/v2/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="coding gif" width="75%" height="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Suraj Roy</h1>
