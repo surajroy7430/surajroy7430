@@ -12,21 +12,16 @@
 # 💫 About Me:
 🔭 I’m currently working on: **A MusicPlayer App**<br>
 🌱 I’m currently learning: **Next.js**<br>
-👨‍💻 All of my projects are available at: <a href="https://surajroy7430.github.io/" target="_blank"><b>My Portfolio</b></a><br>
-📫 How to reach me: <b>surajroy7430@gmail.com</b><br>
-📄 Know more about my skills & projects: <a href="https://drive.google.com/file/d/15eS9qj-i6UwQn_g5Th-_Rxq1It34uM0A/view?usp=drive_link" target="_blank"><b>Resume</b></a><br>
-<br>
+👨‍💻 All of my projects are available at: [**My Portfolio**](https://surajroy7430.github.io/)<br>
+📫 How to reach me: **surajroy7430@gmail.com**<br>
+📄  Know more about my skills & projects: [**Resume**](https://drive.google.com/file/d/15eS9qj-i6UwQn_g5Th-_Rxq1It34uM0A/view?usp=drive_link)<br>
 ⚡ Fun fact I love building small apps and learning new tech.
 
 ---
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/suraj18r" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:surajroy7430@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj18r) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajroy7430@gmail.com) 
 
 ---
 
